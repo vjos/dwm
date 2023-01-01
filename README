@@ -2,6 +2,11 @@ dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
 
+I have applied various patches, which can be found in ./patches.
+
+config.h includes my font choices and keybinds, among other things.
+config.def.h includes the default configs for this setup.
+
 
 Requirements
 ------------
